@@ -6,7 +6,8 @@
 ## Using ##
 - Unity, C#
 
-## *** ☆NOTICE☆ Uploaded Only Script *** ##
+## NOTICE ##
+- Uploaded Only Scripts, Not Whole Project
 
 ## Demo Video - play video ##
 
