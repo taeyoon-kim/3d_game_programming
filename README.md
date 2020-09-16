@@ -1,7 +1,7 @@
 # 3d_game_programming #
 
 ## Title ##
-- Accidental Hero
+- Accidental Hero(어쩌다용사)
 
 ## Using ##
 - Unity, C#
