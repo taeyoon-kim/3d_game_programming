@@ -6,7 +6,7 @@
 ## Using ##
 - Unity, C#
 
-## *** ☆NOTICE☆ Uploaded Only Script*** ##
+## *** ☆NOTICE☆ Uploaded Only Script *** ##
 
 ## Demo Video - play video ##
 
